@@ -117,7 +117,7 @@ export interface User {
   banner_image:  string;
   banner_url:    string;
   profile_url:   string;
-  username:      Username;
+  username:    Username;
   display_name:  string;
   description:   string;
   instagram_url: string;
